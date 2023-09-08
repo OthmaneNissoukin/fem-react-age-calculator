@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fem-react-age-calculator/static/css/main.9c97db5f.css",
+    "main.js": "/fem-react-age-calculator/static/js/main.2d770157.js",
+    "index.html": "/fem-react-age-calculator/index.html",
+    "main.9c97db5f.css.map": "/fem-react-age-calculator/static/css/main.9c97db5f.css.map",
+    "main.2d770157.js.map": "/fem-react-age-calculator/static/js/main.2d770157.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c97db5f.css",
+    "static/js/main.2d770157.js"
+  ]
+}
